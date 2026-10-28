@@ -1,4 +1,4 @@
-# Evidencias: Juliano Obando
+# Evidencias: Julian Obando
 
 ## 1. Errores de sintaxis corregidos
 | # | Archivo | Línea aproximada | Mensaje del compilador | Corrección |
